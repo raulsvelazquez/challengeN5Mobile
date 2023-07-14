@@ -1,6 +1,6 @@
 # Challenge-n5-mobile
 
-Proyecto para dar solucion al challenge N5 y asi poder aplicar al puesto de QA Automation.
+Proyecto para dar solucion al challenge N5 y asi poder aplicar al puesto de QA Automation. Se utiliza mi celular para poder realizar la automatizacion, ya que mi notebook no soporta tener el emulador de android studio.
 
 ## Requisitos previos
 
